@@ -9,7 +9,6 @@ function solve(allStudents, studentName) {
             return;
         }
     }
-
     console.log(`${studentName} not found in the list`);
 }
 
